@@ -1,0 +1,11 @@
+{
+    "autoImportComponentScript": true,
+    "retainStagingDir": true,
+    "plugins": [
+        "@rokucommunity/bslint",
+        "./plugins/asynctask-plugin.ts"
+    ],
+    "require": [
+        "ts-node/register"
+    ]
+}

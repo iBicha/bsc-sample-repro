@@ -1,0 +1,17 @@
+{
+  "name": "bsc-sample-repro",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "bsc --create-package"
+  },
+  "engines": {
+    "node": "20"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.9",
+    "@rokucommunity/bslint": "^0.8.28",
+    "brighterscript": "0.68.5",
+    "ts-node": "^10.9.2",
+    "typescript": "5.8.2"
+  }
+}

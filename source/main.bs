@@ -1,0 +1,5 @@
+import "pkg:/source/AsyncTask/Tasks.bs"
+
+sub main()
+    print Tasks.MyTask
+end sub

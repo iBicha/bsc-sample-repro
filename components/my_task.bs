@@ -1,0 +1,4 @@
+@asynctask
+function MyTask()
+    return invalid
+end function
